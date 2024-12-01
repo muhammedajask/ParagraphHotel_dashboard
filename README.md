@@ -2,7 +2,7 @@
 
 This project analyzes **Paragraph Hotel & Resorts**' performance over 18 months, focusing on the last six months of **2017** and the entire year of **2018**. The dashboard reveals key performance metrics and highlights actionable insights for improving hotel operations and guest experience.
 
-![Paragraph Hotel & Resorts Dashboard](paragraph_hotel_and_resorts.png)
+![Paragraph Hotel & Resorts Dashboard](Paragraph_hotel_and_resorts.png)
 
 ## Project Overview
 
@@ -40,11 +40,11 @@ The analysis was conducted using **Power BI**, with **Power Query** for data cle
 - **DAX Functions**: For creating custom measures such as ADR, Loyalty Ratio, and Cancellation Ratio.
 
 ## Files in This Repository
-- **Dataset**: [paragraph_hotel_dataset.csv](./paragraph_hotel_dataset.csv)
-- **Power BI Dashboard**: [paragraph_hotel_dashboard.pbix](./paragraph_hotel_dashboard.pbix)
+- **Dataset**: [paragraph_hotel_dataset.csv](./Paragraph_hotel_dataset.csv)
+- **Power BI Dashboard**: [paragraph_hotel_dashboard.pbix](./Paragraph_hotel_dashboard.pbix)
 
 ## How to Use This Dashboard
-1. Download the `.pbix` file from [this link](./paragraph_hotel_dashboard.pbix).
+1. Download the `.pbix` file from [this link](./Paragraph_hotel_dashboard.pbix).
 2. Open it using **Power BI Desktop**.
 3. Explore the visualizations and interact with filters to gain insights into the hotel’s performance for the selected years.
 
